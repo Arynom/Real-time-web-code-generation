@@ -44,3 +44,9 @@ You can execute the python script using following command in command prompt or t
 `python live-demo.py`
 
 If you want to see the automatically generated React component, just **double click** the `run-demo.bat` to execute the React project.
+
+## Demo Video
+
+<video width="320" height="240" controls>
+  <source src="Project 1.mp4" type="video/mp4">
+</video>
