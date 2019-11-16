@@ -47,6 +47,6 @@ If you want to see the automatically generated React component, just **double cl
 
 ## Demo Video
 
-<video width="320" height="240" controls>
-  <source src="Project 1.mp4" type="video/mp4">
+<video width="320" height="240" controls preload>
+  <source src="Project 1.mp4" type="video/mp4"></source>
 </video>
